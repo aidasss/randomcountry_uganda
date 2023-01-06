@@ -2,20 +2,17 @@
 # RandomCountry
 
 
-This is simple random country project,it shows Romania as a random country.
+This is simple random country project,it shows Uganda as a random country.
 In this project i  used emoji search project as a base of my project.
 
 
-Online deployment:https://erkinaish.github.io/RandomCountry/
+Online deployment: https://aidasss.github.io/randomcountry_uganda/
 
 
 Some screenshots:
 
-![Screenshot (37)](https://user-images.githubusercontent.com/58220160/210862339-1f532bb8-8668-4b03-a320-8c73bdee10ab.png)
 
 
-![Screenshot (38)](https://user-images.githubusercontent.com/58220160/210862366-f1f3da27-2bbe-4bc2-ba73-4c4d22314eb0.png)
-
-
-![Screenshot (39)](https://user-images.githubusercontent.com/58220160/210862393-c5e83fd8-7fbe-4e35-a5ce-1a939235113d.png)
-
+![Снимок экрана (108)](https://user-images.githubusercontent.com/117573973/211069056-4201903d-fe91-4114-a674-3bdf99cf8829.png)
+![Снимок экрана (109)](https://user-images.githubusercontent.com/117573973/211069071-68a9853a-38b3-4c05-828b-956c19c7bc5b.png)
+![Снимок экрана (107)](https://user-images.githubusercontent.com/117573973/211069075-cbfc92e6-eeac-45dc-98b1-1864236ffb4d.png)
