@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/randomcountry_uganda/static/css/main.2d18621a.chunk.css",
+    "main.js": "/randomcountry_uganda/static/js/main.04635e0f.chunk.js",
+    "main.js.map": "/randomcountry_uganda/static/js/main.04635e0f.chunk.js.map",
+    "runtime-main.js": "/randomcountry_uganda/static/js/runtime-main.a63476cf.js",
+    "runtime-main.js.map": "/randomcountry_uganda/static/js/runtime-main.a63476cf.js.map",
+    "static/js/2.67d9d84c.chunk.js": "/randomcountry_uganda/static/js/2.67d9d84c.chunk.js",
+    "static/js/2.67d9d84c.chunk.js.map": "/randomcountry_uganda/static/js/2.67d9d84c.chunk.js.map",
+    "index.html": "/randomcountry_uganda/index.html",
+    "precache-manifest.0611c7ea2a342572f4454ad38af84b50.js": "/randomcountry_uganda/precache-manifest.0611c7ea2a342572f4454ad38af84b50.js",
+    "service-worker.js": "/randomcountry_uganda/service-worker.js",
+    "static/css/main.2d18621a.chunk.css.map": "/randomcountry_uganda/static/css/main.2d18621a.chunk.css.map",
+    "static/js/2.67d9d84c.chunk.js.LICENSE.txt": "/randomcountry_uganda/static/js/2.67d9d84c.chunk.js.LICENSE.txt",
+    "static/media/Flag_of_Uganda.svg.png": "/randomcountry_uganda/static/media/Flag_of_Uganda.svg.3ad6f245.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a63476cf.js",
+    "static/js/2.67d9d84c.chunk.js",
+    "static/css/main.2d18621a.chunk.css",
+    "static/js/main.04635e0f.chunk.js"
+  ]
+}
